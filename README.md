@@ -1,1 +1,3 @@
-# Print-the-first-nn-integers-on-a-line-separated-by-a-comma.
+# Print-the-first-n-integers-on-a-line-separated-by-a-comma.
+
+Accept a positive integer n as input and print the first n integers on a line separated by a comma.
